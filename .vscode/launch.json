@@ -1,0 +1,24 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "OpenGL Project",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/OpenGL_Project.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [
+                {
+                    "name": "PATH",
+                    "value": "${workspaceFolder}/lib;${env:PATH}"
+                }
+            ],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:/Program Files/CodeBlocks/MinGW/bin/gdb.exe",
+            "preLaunchTask": "Build OpenGL"
+        }
+    ]
+}
