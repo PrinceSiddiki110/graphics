@@ -3,8 +3,8 @@
 //  Controls: W A S D move | Q/E down/up | Mouse look | Left SHIFT fast | ESC exit
 //            L = EEE ground-floor lights   F = EEE ceiling fans
 //            G = EEE generator + wind turbine   M = Mechanical workshop machines
-//            C = Civil construction machines
-// ============================================================================
+//            C = Civil construction machines  P = Pond water   N = Night mode
+//      ============================================================================
 
 // ============================================================================
 //  SEGMENT 1 : INCLUDES
